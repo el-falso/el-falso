@@ -2,10 +2,7 @@
 
 <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/5958083&shape=circle" height=200>
 
-<font size="7">  
-    eL-Falso / Falli
-</font>
-<hr>
+<h1>eL-Falso / Falli</h1>
 
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 <!-- Readme template borrowed ;-) from https://github.com/InioX -->
