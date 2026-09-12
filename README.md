@@ -53,7 +53,7 @@ My current game is a roguelite one.
         <img src="https://github.com/el-falso/monaki-theme/raw/gh-pages/screenshots/Screen01.png?raw=true" height=170>
         <a href="https://github.com/el-falso/monaki-theme">
             <br><br>
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=el-falso&repo=monaki-theme&title_color=f0dedf&icon_color=ffb2b8&text_color=d7c1c2&bg_color=413737&show_owner=true&hide_border=true" width=300/>
+            <img align="center" src="https://github-readme-stats-el-falso.vercel.app/api/pin?username=el-falso&repo=monaki-theme&title_color=f0dedf&icon_color=ffb2b8&text_color=d7c1c2&bg_color=413737&show_owner=true&hide_border=true" width=300/>
         </a>
      </kbd>
 </td>
@@ -62,7 +62,7 @@ My current game is a roguelite one.
         <img src="https://github.com/el-falso/gdlinter/blob/main/screenshot_01.png?raw=true" height=170>
         <a href="https://github.com/el-falso/gdlinter">
             <br><br>
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=el-falso&repo=gdlinter&title_color=f0dedf&icon_color=ffb2b8&text_color=d7c1c2&bg_color=413737&show_owner=true&hide_border=true" width=300/>
+            <img align="center" src="https://github-readme-stats-el-falso.vercel.app/api/pin?username=el-falso&repo=gdlinter&title_color=f0dedf&icon_color=ffb2b8&text_color=d7c1c2&bg_color=413737&show_owner=true&hide_border=true" width=300/>
         </a>
      </kbd>
 </td>
@@ -72,7 +72,7 @@ My current game is a roguelite one.
 ## ⚙️ GitHub Analytics
 <p align="center">
     <a href="https://github.com/el-falso">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=el-falso&show_icons=true&theme=moltack&include_all_commits=true&count_private=true&border_radius=1rem"/>
+        <img height="180em" src="https://github-readme-stats-el-falso.vercel.app/api?username=el-falso&show_icons=true&theme=moltack&include_all_commits=true&count_private=true&border_radius=1rem"/>
         <img height="180em" src="https://github-readme-stats-el-falso.vercel.app/api/top-langs/?username=el-falso&layout=compact&theme=moltack&border_radius=1rem&langs_count=4"/>
     </a>
 </p>
