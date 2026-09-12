@@ -71,7 +71,7 @@ My current game is a roguelite one.
 
 ## ⚙️ GitHub Analytics
 <p align="center">
-    <a href="https://github.com/ninetailsrabbit">
+    <a href="https://github.com/el-falso">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=el-falso&show_icons=true&theme=moltack&include_all_commits=true&count_private=true&border_radius=1rem"/>
         <img height="180em" src="https://github-readme-stats-el-falso.vercel.app/api/top-langs/?username=el-falso&layout=compact&theme=moltack&border_radius=1rem&langs_count=4"/>
     </a>
